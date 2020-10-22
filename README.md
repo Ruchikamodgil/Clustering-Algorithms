@@ -15,3 +15,4 @@ Types:<br>
 #### K-Means Clustering
 #### Hierarchical Clustering
 #### DBSCAN (Density Based)
+ and many more......
